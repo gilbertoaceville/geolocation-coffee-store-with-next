@@ -78,8 +78,8 @@ export default function Home(props) {
         <div className={styles.heroImage}>
           <Image
             src="/static/hero-image.png"
-            width={700}
-            height={400}
+            width="700"
+            height="400"
             alt="hero image"
           />
         </div>
