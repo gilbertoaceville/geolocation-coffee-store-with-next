@@ -3,4 +3,6 @@ module.exports = {
   images: {
     domains: ["images.unsplash.com"],
   },
+  //REQUIRED FOR NETLIFY DEPLOYMENT
+  target: "serverless"
 };
